@@ -31,4 +31,4 @@ def run_guessing_game
   end
 end
 #Basri tests. Remove after making it run!
-run_guessing_game
+#run_guessing_game
